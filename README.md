@@ -91,6 +91,4 @@ The dataset includes anonymized information on:
 4. **Expansion to New Metrics**:
    - Analyze delivery times, customer demographics, and meal preferences for deeper insights.
 
----
 
-Feel free to enhance or modify this project based on additional datasets or business goals. If you have questions or ideas, contributions are welcome!
